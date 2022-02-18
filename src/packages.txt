@@ -1,0 +1,12 @@
+shiny
+shinydashboard
+shinyjs
+data.table
+DBI
+dplyr
+DT
+lubridate
+jose
+RMySQL
+reshape
+sodium

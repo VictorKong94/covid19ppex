@@ -1,0 +1,77 @@
+.btn {
+    background-color: #605ca8;
+    border-color: #cccccc;
+    border-radius: 4px;
+    color: #ffffff;
+    cursor: pointer;
+    width: 100%;
+}
+
+.btn:hover {
+    background-color: #555299;
+    color: #ffffff;
+}
+
+.datatables tr:hover {
+    cursor: pointer;
+}
+
+.form-control {
+    border-color: #cccccc;
+    border-radius: 4px;
+}
+
+.form-group {
+    width: 100%;
+}
+
+.skin-purple .main-header .logo:hover {
+    background-color: #555299;
+}
+
+.link {
+    color: #ecf0f5;
+    display: inline-block;
+    margin: 5px;
+    padding: 10px;
+}
+
+.link:hover {
+    border-bottom: 1px solid #ffffff;
+    color: #ffffff;
+    padding-bottom: 2px;
+}
+
+.link-active {
+    border-bottom: 1px solid #ffffff;
+    color: #ffffff;
+    padding-bottom: 2px;
+}
+
+.modal-footer {
+    text-align: left;
+}
+
+.progress-bar {
+    background-color: #605ca8;
+}
+
+.row {
+    margin-bottom: -15px;
+}
+
+.shiny-input-container:not(.shiny-input-container-inline) {
+    width: 100%;
+}
+
+.text-middle {
+    padding-top: 6px;
+}
+
+.text-red {
+    color: red;
+}
+
+#ir_status_report tr:hover {
+    cursor: default;
+}
